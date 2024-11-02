@@ -1,0 +1,63 @@
+Privacy Policy
+
+Effective Date: Aug/27/2024
+
+1. Introduction
+
+Welcome to HealthWatch. Your privacy is important to us. This Privacy Policy explains how we collect, use, store, and protect your personal information when you use our AI-driven health application.
+
+2. Information We Collect
+
+We collect the following personal information from users:
+
+- Name
+- Age
+- Weight
+- Height
+This information is collected to provide personalized health analysis and recommendations.
+
+3. How We Use Your Information
+
+The personal information we collect is used solely for the purpose of:
+
+Analyzing video and speech inputs to diagnose potential illnesses.
+Recommending next steps for managing health.
+We do not share your personal information with any third parties.
+
+4. Data Storage and Security
+
+Your data is stored securely on AWS MongoDB servers located in Paris, France. We retain your data as long as you are an active user of the HealthWatch app. We have implemented robust security measures to protect your data from unauthorized access. However, please note that in the unlikely event of an AWS security breach, your data may be compromised.
+
+5. Your Rights
+
+You have the right to request the deletion of your data and user account. To do so, please send an email to carlghanem2003.cg@gmail.com. We will process your request within 72 work hours. Please note that withdrawal of consent is not possible, as the data is essential for the app's core functionalities.
+
+6. Cookies and Tracking
+
+HealthWatch does not use cookies or other tracking technologies.
+
+7. Third-Party Links and Services
+
+HealthWatch does not link to any third-party websites or services.
+
+8. Changes to This Privacy Policy
+
+If we make any changes to our privacy policy, we will notify you through an app notification on your next login.
+
+9. Contact Information
+
+If you have any questions or concerns about your privacy, please contact us at carlghanem2003.cg@gmail.com.
+
+10. Compliance with HIPAA
+
+HealthWatch is designed to comply with the Health Insurance Portability and Accountability Act (HIPAA). We ensure that all personal health information (PHI) is handled in accordance with HIPAA regulations, including secure data storage, limited access to authorized personnel only, and strict adherence to confidentiality standards.
+
+How We Comply with HIPAA:
+
+Data Encryption: We use advanced encryption methods to secure PHI both in transit and at rest.
+Access Control: Only authorized personnel have access to your data, and access is strictly monitored.
+Regular Audits: We conduct regular audits to ensure compliance with HIPAA regulations and promptly address any potential vulnerabilities.
+
+11. Model optimal working condition
+
+For accurate analysis, please ensure that any videos submitted are recorded in a well-lit environment, avoiding both dark settings and overly bright light.
